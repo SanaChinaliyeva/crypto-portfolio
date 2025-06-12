@@ -55,7 +55,3 @@ packages/
 
 - Frontend: http://localhost:3000
 - Backend: http://localhost:3001
-
-## License
-
-MIT 
